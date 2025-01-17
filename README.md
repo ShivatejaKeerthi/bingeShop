@@ -2,8 +2,6 @@
 
 A modern e-commerce platform built with React, offering a seamless shopping experience for fashion and electronics.
 
-![bingeShop Screenshot](https://teal-centaur-f80c72.netlify.app/screenshot.png)
-
 ## 🌟 Features
 
 - 🛍️ Browse products by categories
