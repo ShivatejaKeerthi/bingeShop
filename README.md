@@ -19,7 +19,6 @@ A modern e-commerce platform built with React, offering a seamless shopping expe
 - React
 - Tailwind CSS
 - Firebase Authentication
-- Supabase
 - Vite
 - React Router
 - Lucide Icons
@@ -56,7 +55,7 @@ A modern e-commerce platform built with React, offering a seamless shopping expe
 
 ## 🌐 Live Demo
 
-Check out the live demo: [bingeShop](https://teal-centaur-f80c72.netlify.app/)
+Check out the live demo: [bingeShop](https://bingeshop.netlify.app/)
 
 ## 📝 License
 
